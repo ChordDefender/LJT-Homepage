@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &amp;name "Junteng Liu"
 description              : &amp;description "Junteng Liu's academic portfolio - PhD candidate at HKUST NLP Group"
 url                      : https://ChordDefender.github.io
-baseurl                  : "/academicpages.github.io"
-repository               : "ChordDefender/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "ChordDefender/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
